@@ -11,5 +11,5 @@ for i in range(1, rows + 1):
     for j in range(1, i + 1):
         print("*", end=" ")
 
-    # Move to the next line after finishing the current row
+    # Move to the next line after finishing the current row.
     print()
